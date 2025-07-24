@@ -1,3 +1,3 @@
 # NewRepo
 This Is My Newrepository
-Author -Mukesh
+Author -Mukesh Ray
