@@ -1,4 +1,4 @@
 # NewRepo
 This Is My Newrepository.
 <br>
-Author -Mukesh Ray 
+Author -Mukesh Kumar Ray 
